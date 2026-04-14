@@ -38,7 +38,7 @@ export default function ContactPage() {
                                         <div className="icon-box"><Mail size={24} /></div>
                                         <div>
                                             <strong>Email</strong>
-                                            <a href="mailto:info@finarapropertysolutions.com">info@finarapropertysolutions.com</a>
+                                            <a href="mailto:info@finaraprosolutions.com">info@finaraprosolutions.com</a>
                                         </div>
                                     </li>
                                     <li>
@@ -54,7 +54,7 @@ export default function ContactPage() {
                         </div>
 
                         <div className="contact-form-wrapper">
-                            <form className="contact-form" action="mailto:info@finarapropertysolutions.com" method="post" encType="text/plain">
+                            <form className="contact-form" action="mailto:info@finaraprosolutions.com" method="post" encType="text/plain">
                                 <h3>Send a Message</h3>
                                 <div className="form-group">
                                     <label htmlFor="name">Full Name</label>

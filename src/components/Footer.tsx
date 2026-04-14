@@ -41,7 +41,7 @@ export default function Footer() {
                             </li>
                             <li>
                                 <Mail size={18} />
-                                <span>info@finarapropertysolutions.com</span>
+                                <span>info@finaraprosolutions.com</span>
                             </li>
                             <li>
                                 <MapPin size={18} />
