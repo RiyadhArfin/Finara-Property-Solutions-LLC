@@ -32,6 +32,7 @@ export default function ContactPage() {
                                         <div>
                                             <strong>Phone</strong>
                                             <a href="tel:7162748090">(716) 274-8090</a>
+                                             <a href="tel:7162749914">716-274-9914 (For Vendors inquiry)</a>
                                         </div>
                                     </li>
                                     <li>
